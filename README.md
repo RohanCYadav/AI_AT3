@@ -1,5 +1,4 @@
-# AI_AT3
-# 📰 AI_AT3 — Fake News Detection with BERT
+# AI_AT3 — Fake News Detection with BERT
 
 This project fine-tunes a BERT-based model to detect whether a news article is **REAL** or **FAKE**, and presents an interactive chatbot UI for prediction and explanation.
 
