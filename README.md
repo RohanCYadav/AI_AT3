@@ -34,7 +34,7 @@ AI_AT3/
 
 ## How to Run the Project
 
-### 1. Download the Prototype zip and unzip into your system
+### 1. Download the Prototype zip and unzip into a Folder (Project Folder)
 
 ### 2. Create and Activate a Virtual Environment on Windows Command Prompt
 
