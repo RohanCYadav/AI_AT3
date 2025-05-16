@@ -12,7 +12,7 @@ Prototype Built for AI Assessment Task 3 using:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 AI_AT3/
@@ -33,11 +33,11 @@ AI_AT3/
 
 ---
 
-## ⚙️ How to Run the Project
+## How to Run the Project
 
 ### 1. Download the Prototype zip and unzip into your system
 
-### 2. Create and Activate a Virtual Environment
+### 2. Create and Activate a Virtual Environment on Windows Command Prompt
 
 ```bash
 python -m venv venv
