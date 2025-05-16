@@ -69,7 +69,7 @@ streamlit run app.py
 
 ---
 
-## Sample Output
+## Prototype Output
 
 **Classification Report (on validation set):**
 
