@@ -51,8 +51,9 @@ pip install -r requirements.txt
 ### 4. **Download the model** from Google Drive and into the project folder:
    >   [Download fake_news_bert_model](https://drive.google.com/drive/folders/1n-59tXFuxOSjFESM8q50yhlgKWG8VPs-?usp=drive_link)
 
+### 5. DOwnload the Dataset from the Releases Section and Place the dataset into the project folder
 
-### 4. Run the Streamlit Chatbot
+### 6. Run the Streamlit Chatbot
 
 ```bash
 streamlit run app.py
