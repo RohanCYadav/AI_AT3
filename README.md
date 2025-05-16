@@ -87,3 +87,7 @@ precision    recall  f1-score   support
 ---
 
 ## Authors
+- Rohan Yadav(24669044)
+- Kshitij Sameer Surte(25094069)
+- Paul Benjamin Samuel(25142441)
+- Jerome Joselin Smile(25407242)
