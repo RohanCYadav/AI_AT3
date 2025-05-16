@@ -49,7 +49,7 @@ venv\Scripts\activate  # On Windows
 pip install -r requirements.txt
 ```
 ### 4. **Download the model** from Google Drive and into the project folder:
-   >  [Download]([https://drive.google.com/file/d/1GLVQlTcB396-B2oJawBjntGYiYJ5QZqE/view?usp=sharing])
+   >   [Download fake_news_bert_model](https://drive.google.com/drive/folders/1n-59tXFuxOSjFESM8q50yhlgKWG8VPs-?usp=drive_link)
 
 
 ### 4. Run the Streamlit Chatbot
