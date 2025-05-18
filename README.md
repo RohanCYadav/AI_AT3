@@ -81,7 +81,7 @@ precision    recall  f1-score   support
 
 ## Acknowledgments
 
-- Dataset originally from Kaggle’s Fake and True news datasets
+- Dataset originally from Kaggle’s Fake and True news datasets [Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 - Pretrained model: [bert-base-uncased](https://huggingface.co/bert-base-uncased)
 
 ---
